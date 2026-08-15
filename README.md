@@ -5,7 +5,7 @@ API RESTful desenvolvida em **Java (Spring Boot)** para gerenciamento de ordens 
 ---
 
 ## 🚀 Tecnologias Utilizadas
-- **Linguagem & Framework:** Java 17+ | Spring Boot 3
+- **Linguagem & Framework:** Java 17+ | Spring Boot 4
 - **Persistência de Dados:** Spring Data JPA | Hibernate | PostgreSQL
 - **DevOps & Infrastructure:** Docker | Docker Compose
 - **Documentação:** Springdoc OpenAPI (Swagger UI)
