@@ -31,7 +31,3 @@ API RESTful desenvolvida em **Java (Spring Boot)** para gerenciamento de ordens 
 - Docker e Docker Compose instalados.
 - Java 17+ instalado.
 
-### Passo a Passo
-1. **Clonar o repositório:**
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/code-fix-api.git](https://github.com/SEU_USUARIO/code-fix-api.git)
